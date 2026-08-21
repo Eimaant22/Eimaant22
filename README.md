@@ -91,9 +91,9 @@ A formal-methods-based project modeling a coffee shop's management workflow.
 
 ## 📊 GitHub Stats
 
-![Eimaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eimaant22&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eimaant22&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eimaant22&theme=tokyonight&hide_border=true)
+[![Eimaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eimaant22&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Eimaant22)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eimaant22&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Eimaant22)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eimaant22&theme=tokyonight&hide_border=true)](https://github.com/Eimaant22)
 
 ## 🌐 Let's Connect
 
