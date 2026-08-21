@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Eimaan Tariq
 
-**🚀 Full-Stack Developer | MERN Stack | Backend-Focused | Software Engineering Student**
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Eimaan%20Tariq&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Exploring%20Agentic%20AI&descAlignY=55&descSize=18)
+
+## 🚀 About Me
 
 ```python
 class EimaanTariq:
@@ -10,8 +12,6 @@ class EimaanTariq:
         self.currently_learning = ["Agentic AI", "RAG Applications", "LangChain", "LangGraph"]
         self.fun_fact = "I debug with print statements and I'm not sorry"
 ```
-
-## 🚀 About Me
 
 I'm a Software Engineering student at **UET Taxila**, passionate about backend development and full-stack web applications. I like building practical, real-world software — not just tutorials — and I'm continuously sharpening my problem-solving and engineering skills.
 
@@ -91,9 +91,12 @@ A formal-methods-based project modeling a coffee shop's management workflow.
 
 ## 📊 GitHub Stats
 
-[![Eimaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eimaant22&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Eimaant22)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eimaant22&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Eimaant22)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eimaant22&theme=tokyonight&hide_border=true)](https://github.com/Eimaant22)
+[![Eimaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eimaant22&show_icons=true&theme=radical&hide_border=true)](https://github.com/Eimaant22)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eimaant22&layout=compact&theme=radical&hide_border=true)](https://github.com/Eimaant22)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eimaant22&theme=radical&no-frame=true&row=1&column=6)](https://github.com/Eimaant22)
 
 ## 🌐 Let's Connect
 
@@ -105,3 +108,5 @@ A formal-methods-based project modeling a coffee shop's management workflow.
 > *"First, solve the problem. Then, write the code."* — **John Johnson**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Eimaant22&color=blueviolet&style=flat)
+
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer)
