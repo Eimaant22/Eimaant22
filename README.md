@@ -1,4 +1,4 @@
-#Hi, I'm Eimaan Tariq 👋
+Eimaan Tariq 👋
 
 Software Engineering Student · Full-Stack Developer · AI Enthusiast
 
@@ -38,17 +38,21 @@ Frontend
 
 🚀 Featured Projects
 
-##MERN E-Commerce Application
+MERN E-Commerce Application
 
 Full-stack e-commerce platform with a customer storefront, admin panel, and REST API.
 
-###"View Project →" (https://github.com/Eimaant22/Mern-Ecommerce-web)
+"View Project →" (https://github.com/Eimaant22/Mern-Ecommerce-web)
 
-##Task Management System
+Task Management System
 
 Full-stack application for creating, assigning, and tracking tasks.
 
-##News Web Application
+Food Delivery Website
+
+Responsive food ordering interface focused on clean UI and user experience.
+
+News Web Application
 
 React application for fetching and displaying live news content.
 
